@@ -1,0 +1,6 @@
+[submodule "prosport_back"]
+	path = prosport_back
+	url = https://github.com/usr9548/prosport_back.git
+[submodule "prosport_front"]
+	path = prosport_front
+	url = https://github.com/usr9548/prosport_front.git
